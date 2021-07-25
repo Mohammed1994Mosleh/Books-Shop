@@ -17,13 +17,14 @@ color:white;
 width: 30%;
 margin-top: 60px;
 float: left;
+background-color:#755c4f ;
 
 }
 
 #name{
     width: 200px;
     /* margin-left: 40px; */
-    text-align: end;
+    margin-right: 0px;
 } 
 
  #price{
@@ -34,6 +35,7 @@ float: left;
  #submit{
     width: 200px;
     background-color: #c58a59;
+    margin-right: 0px;
 
 }
 
@@ -65,4 +67,8 @@ footer{
  margin-right: 0px;
 
 
+}
+
+label{
+    color: white;
 }

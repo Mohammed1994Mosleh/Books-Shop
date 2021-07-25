@@ -88,7 +88,7 @@ function render (){
 
     }
 
-totEL.textContent=total;
+totEL.textContent=`Total ${total}`;
 
 divEl.appendChild(totEL);
 
